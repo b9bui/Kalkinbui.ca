@@ -1,11 +1,7 @@
 ---
 title: Interactive Robotic Arm
-description: >-
-  A hands-on exploration of servo control, mechanical linkages, and embedded
-  systems.
-
-
-  CMS TEST
+description: A hands-on exploration of servo control, mechanical linkages, and
+  embedded systems.MS TEST
 category: Mechatronics
 status: Prototype / in progress
 cover: ""
