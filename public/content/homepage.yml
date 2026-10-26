@@ -1,31 +1,36 @@
-site_title: "Kalkin Bui — Engineering Portfolio"
-site_description: "Engineering portfolio of Kalkin Bui — selected projects, technical work, and experience."
-wordmark: "KB"
-nav_home: "Overview"
-nav_projects: "Projects"
-nav_about: "About"
-header_contact: "Get in touch"
-hero_eyebrow: "ENGINEERING PORTFOLIO"
-hero_location: "TORONTO, CANADA"
-hero_title_1: "Curious by nature."
-hero_title_2: "Precise by design."
-hero_copy: "I'm Kalkin Bui, an engineering student interested in building thoughtful solutions to real-world problems — from early concepts to working prototypes."
-hero_primary_label: "Explore projects"
-hero_secondary_label: "A little about me"
-selected_label: "SELECTED WORK"
-selected_title: "Projects in progress."
-selected_link_label: "View all projects"
-bottom_eyebrow: "HAVE A PROJECT IN MIND?"
-bottom_title_1: "Let's build something"
-bottom_title_2: "worth understanding."
-bottom_button_label: "Start a conversation"
-footer_tagline: "Designed with intention. Built to evolve."
-projects_eyebrow: "SELECTED WORK"
-projects_title_1: "Ideas, experiments,"
-projects_title_2: "and things made real."
-projects_intro: "A growing collection of engineering projects, prototypes, and technical explorations."
-about_eyebrow: "A LITTLE CONTEXT"
-about_section_label: "ABOUT ME"
-about_focus: "Engineering · Prototyping"
-about_currently: "Learning, designing, building"
-about_open_to: "Projects & collaboration"
+site_title: Kalkin Bui — Engineering Portfolio
+site_description: Engineering portfolio of Kalkin Bui — selected projects,
+  technical work, and experience.
+wordmark: KB
+nav_home: Overview
+nav_projects: Projects
+nav_about: About
+header_contact: Get in touch
+hero_eyebrow: ENGINEERING PORTFOLIO
+hero_location: TORONTO, CANADA
+hero_title_1: Curious by birth.
+hero_title_2: Precise by design.
+hero_copy: I'm Kalkin Bui, an engineering student interested in building
+  thoughtful solutions to real-world problems — from early concepts to working
+  prototypes.
+hero_primary_label: Explore projects
+hero_secondary_label: A little about me
+selected_label: SELECTED WORK
+selected_title: Projects in progress.
+selected_link_label: View all projects
+bottom_eyebrow: HAVE A PROJECT IN MIND?
+bottom_title_1: Let's build something
+bottom_title_2: worth understanding.
+bottom_button_label: Start a conversation
+footer_tagline: Designed with intention. Built to evolve.
+projects_eyebrow: SELECTED WORK
+projects_title_1: Ideas, experiments,
+projects_title_2: and things made real.
+projects_intro: A growing collection of engineering projects, prototypes, and
+  technical explorations.
+about_eyebrow: A LITTLE CONTEXT
+about_section_label: ABOUT ME
+about_focus: Engineering · Prototyping
+about_currently: Learning, designing, building
+about_open_to: Projects & collaboration
+email: kalkinbui@gmail.com
