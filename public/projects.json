@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "guild-grind",
+    "title": "Guild Grind",
+    "description": "A productivity concept that uses game-like progression to make consistent work feel rewarding.",
+    "category": "Software",
+    "status": "In development",
+    "cover": "",
+    "project_url": "",
+    "body": "## Overview\n\nA productivity and accountability app concept that borrows progression systems from role-playing games.\n\n## Technical approach\n\nThe concept turns goals and daily tasks into a progression loop: complete meaningful work, build momentum, and see progress over time.\n\n## Stack and lessons\n\nAdd your actual features, architecture, screenshots, and development status.",
+    "url": "/projects/guild-grind/"
+  },
+  {
+    "slug": "optical-payload",
+    "title": "Multispectral Optical Payload",
+    "description": "Combining thermal and short-wave infrared data to give operators a clearer picture.",
+    "category": "Optical systems",
+    "status": "Design project",
+    "cover": "",
+    "project_url": "",
+    "body": "## Overview\n\nA payload concept that brings long-wave infrared and short-wave infrared information together to help an operator interpret a scene.\n\n## Technical approach\n\nLWIR sensing highlights thermal contrast, while SWIR can reveal reflected-light detail and material differences that thermal imagery may not show. Presented together, the views can help an operator cross-check observations rather than relying on one sensor alone.\n\n## Deliverables\n\nReplace this section with approved report text, diagrams, and your specific contribution.",
+    "url": "/projects/optical-payload/"
+  },
+  {
+    "slug": "robotic-arm",
+    "title": "Interactive Robotic Arm",
+    "description": "A hands-on exploration of servo control, mechanical linkages, and embedded systems.",
+    "category": "Mechatronics",
+    "status": "Prototype / in progress",
+    "cover": "",
+    "project_url": "",
+    "body": "## Overview\n\nA prototype exploring the relationship between mechanical motion, servo actuation, and simple embedded control.\n\n## Design process\n\nReplace this section with your actual build process, design decisions, and constraints.\n\n## Results and lessons\n\nAdd testing notes, what worked, what changed, and what you would improve next.",
+    "url": "/projects/robotic-arm/"
+  }
+]
