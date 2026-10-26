@@ -1,8 +1,13 @@
 ---
-title: "Interactive Robotic Arm"
-description: "A hands-on exploration of servo control, mechanical linkages, and embedded systems."
-category: "Mechatronics"
-status: "Prototype / in progress"
+title: Interactive Robotic Arm
+description: >-
+  A hands-on exploration of servo control, mechanical linkages, and embedded
+  systems.
+
+
+  CMS TEST
+category: Mechatronics
+status: Prototype / in progress
 cover: ""
 project_url: ""
 ---
