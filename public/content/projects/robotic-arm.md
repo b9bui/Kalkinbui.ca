@@ -13,8 +13,6 @@ A prototype exploring the relationship between mechanical motion, servo actuatio
 
 ## Design process
 
-Replace this section with your actual build process, design decisions, and constraints.
+
 
 ## Results and lessons
-
-Add testing notes, what worked, what changed, and what you would improve next.
