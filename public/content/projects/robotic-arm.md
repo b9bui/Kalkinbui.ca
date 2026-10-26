@@ -13,7 +13,7 @@ A prototype exploring the relationship between mechanical motion, servo actuatio
 
 ## Design process
 
-Replace this section with your actual build process, design decisions, and constraints.
+Replace this section with your actual build process, design decisions, and constraints. hamburger
 
 ## Results and lessons
 
