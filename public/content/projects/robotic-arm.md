@@ -9,11 +9,11 @@ project_url: ""
 ---
 ## Overview
 
-A prototype exploring the relationship between mechanical motion, servo actuation, and simple embedded control.
+A prototype exploring the relationship between mechanical motion, servo actuation, and simple embedded control. HAMBAURGER
 
 ## Design process
 
-Replace this section with your actual build process, design decisions, and constraints. hamburger
+Replace this section with your actual build process, design decisions, and constraints.
 
 ## Results and lessons
 
