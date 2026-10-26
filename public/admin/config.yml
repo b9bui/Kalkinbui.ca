@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/kalkinbui-portfolio
+  branch: main
+
+# This media path keeps uploaded assets inside the deployed static folder.
+media_folder: "public/media/uploads"
+public_folder: "/media/uploads"
+
+site_url: https://kalkinbui.ca
+display_url: https://kalkinbui.ca
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    label_singular: "Project"
+    folder: "public/content/projects"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Short description", name: "description", widget: "text" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Status", name: "status", widget: "string", required: false }
+      - { label: "Cover image", name: "cover", widget: "image", required: false }
+      - { label: "Project link", name: "project_url", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "profile"
+    label: "Profile"
+    files:
+      - label: "About page content"
+        name: "about"
+        file: "public/content/about.md"
+        fields:
+          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Intro", name: "intro", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Site settings"
+        name: "settings"
+        file: "public/content/settings.yml"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Short tagline", name: "tagline", widget: "string" }
+          - { label: "Contact email", name: "email", widget: "string" }
+          - { label: "Location", name: "location", widget: "string" }
