@@ -46,3 +46,45 @@ collections:
           - { label: "Short tagline", name: "tagline", widget: "string" }
           - { label: "Contact email", name: "email", widget: "string" }
           - { label: "Location", name: "location", widget: "string" }
+
+          
+  - name: "homepage"
+    label: "Homepage & Design"
+    files:
+      - label: "Homepage content"
+        name: "homepage"
+        file: "public/content/homepage.yml"
+        fields:
+          - { label: "Browser title", name: "site_title", widget: "string" }
+          - { label: "SEO description", name: "site_description", widget: "text" }
+          - { label: "Wordmark", name: "wordmark", widget: "string" }
+          - { label: "Home navigation label", name: "nav_home", widget: "string" }
+          - { label: "Projects navigation label", name: "nav_projects", widget: "string" }
+          - { label: "About navigation label", name: "nav_about", widget: "string" }
+          - { label: "Header contact label", name: "header_contact", widget: "string" }
+          - { label: "Hero eyebrow", name: "hero_eyebrow", widget: "string" }
+          - { label: "Hero location", name: "hero_location", widget: "string" }
+          - { label: "Hero title line 1", name: "hero_title_1", widget: "string" }
+          - { label: "Hero title line 2", name: "hero_title_2", widget: "string" }
+          - { label: "Hero introduction", name: "hero_copy", widget: "text" }
+          - { label: "Primary button label", name: "hero_primary_label", widget: "string" }
+          - { label: "Secondary button label", name: "hero_secondary_label", widget: "string" }
+          - { label: "Selected work label", name: "selected_label", widget: "string" }
+          - { label: "Selected work title", name: "selected_title", widget: "string" }
+          - { label: "View all projects label", name: "selected_link_label", widget: "string" }
+          - { label: "Bottom banner eyebrow", name: "bottom_eyebrow", widget: "string" }
+          - { label: "Bottom banner title line 1", name: "bottom_title_1", widget: "string" }
+          - { label: "Bottom banner title line 2", name: "bottom_title_2", widget: "string" }
+          - { label: "Bottom banner button label", name: "bottom_button_label", widget: "string" }
+          - { label: "Footer tagline", name: "footer_tagline", widget: "string" }
+          - { label: "Projects page eyebrow", name: "projects_eyebrow", widget: "string" }
+          - { label: "Projects page title line 1", name: "projects_title_1", widget: "string" }
+          - { label: "Projects page title line 2", name: "projects_title_2", widget: "string" }
+          - { label: "Projects page introduction", name: "projects_intro", widget: "text" }
+          - { label: "About page eyebrow", name: "about_eyebrow", widget: "string" }
+          - { label: "About section label", name: "about_section_label", widget: "string" }
+          - { label: "About focus", name: "about_focus", widget: "string" }
+          - { label: "Currently working on", name: "about_currently", widget: "string" }
+          - { label: "Open to", name: "about_open_to", widget: "string" }
+          - { label: "Contact email", name: "email", widget: "string" }
+
